@@ -18,12 +18,12 @@ This roundtable discussion will explore potential design aspects for enterprise 
 
 ## Co-Facilitators
 
-### Co-Facilitator [Dazza Greenwood](http://dazzagreenwood.com), MIT Media Lab
+### [Dazza Greenwood](http://dazzagreenwood.com), MIT Media Lab
 
 <img width="218" alt="screen shot 2018-06-14 at 2 55 30 pm" src="https://user-images.githubusercontent.com/2357755/41440394-2cb75854-6fe3-11e8-9717-9219b032f410.png">
 
 
-### Co-Facilitator [Christopher Berendt](https://www.drinkerbiddle.com/-/media/files/bios/chris-berendt_cv.pdf?la=en), Drinker Biddle
+### [Christopher Berendt](https://www.drinkerbiddle.com/-/media/files/bios/chris-berendt_cv.pdf?la=en), Drinker Biddle
 
 ![0](https://user-images.githubusercontent.com/2357755/41440356-0cf404ae-6fe3-11e8-9996-1b8c52389617.jpg)
 
