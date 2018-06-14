@@ -1,4 +1,4 @@
-## The [Gen3 Enterprise DLT Roundtable](https://mitmedialab.github.io/Gen3DLT-Roundtable) Explores Design and Deployment of Enterprise and Industry Sector Blockchains for Process Efficiency, New Market Layers, Products and Services.
+## The [Gen3DLT Roundtable](https://mitmedialab.github.io/Gen3DLT-Roundtable) Explores Design and Deployment of Enterprise and Industry Sector Blockchains for Process Efficiency, New Market Layers, Products and Services.
 
 * MIT Media Lab, Room E15-3-341 
 * 9:00 AM - 11:30 AM August 1st, 2018 
