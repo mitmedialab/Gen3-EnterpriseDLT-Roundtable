@@ -5,7 +5,7 @@
 * MIT Media Lab, Room E15-3-341 
 * 9:00 AM - 11:30 AM August 1st, 2018 
 
-> Enterprise blockchains will represent the third generation of Blockchains with the primary purpose of enhancing business process.  Enterprise and sector chains will be developed where provenance tracking, contract management, capturing arbitrage opportunities, and coordinating diverse settlements present value.   
+*Enterprise blockchains will represent the third generation of Blockchains with the primary purpose of enhancing business process.  Enterprise and sector chains will be developed where provenance tracking, contract management, capturing arbitrage opportunities, and coordinating diverse settlements present value.*
 
 This roundtable discussion will explore potential design aspects for enterprise and sector-level blockchains including:   
 
