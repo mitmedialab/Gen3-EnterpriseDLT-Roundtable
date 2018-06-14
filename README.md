@@ -1,4 +1,4 @@
-# Gen3 Enterprise DLT Roundtable
+# [Gen3 Enterprise DLT Roundtable](https://mitmedialab.github.io/Gen3DLT-Roundtable)
 
 **Designing and Deploying Enterprise and Industry Sector Blockchains for Process Efficiency, New Market Layers, Products and Services.**  
 
@@ -9,10 +9,10 @@
 
 This roundtable discussion will explore potential design aspects for enterprise and sector-level blockchains including:   
 
-•	Private and Public Access 
-•	Permissionless and Permissioned Update
-•	Service and Transaction Oriented Architecture
-•	Centralized or Semi-Decentralized Governance
+* Private and Public Access 
+* Permissionless and Permissioned Update
+* Service and Transaction Oriented Architecture
+* Centralized or Semi-Decentralized Governance
 
 -------------------------
 
