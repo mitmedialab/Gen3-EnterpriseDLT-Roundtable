@@ -18,7 +18,7 @@ This roundtable discussion will exmine potential design aspects for enterprise a
 
 ### [Dazza Greenwood](http://dazzagreenwood.com), MIT Media Lab
 
-<img width="218" alt="screen shot 2018-06-14 at 2 55 30 pm" src="https://user-images.githubusercontent.com/2357755/41440394-2cb75854-6fe3-11e8-9717-9219b032f410.png">
+<img width="212" alt="screen shot 2018-06-14 at 3 15 07 pm" src="https://user-images.githubusercontent.com/2357755/41441047-ccff4efa-6fe5-11e8-902b-abd38509c7fe.png">
 
 -----------------------------
 
