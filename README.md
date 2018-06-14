@@ -1,4 +1,4 @@
-## Exploring Design and Deployment of Enterprise and Industry Sector Blockchains for Process Efficiency, New Market Layers, Products and Services.
+## Learn and Discuss Design and Deployment of Enterprise and Industry Sector Blockchains for Process Efficiency, New Market Layers, Products and Services.
 
 * [https://mitmedialab.github.io/Gen3DLT-Roundtable](https://mitmedialab.github.io/Gen3DLT-Roundtable)
 * MIT Media Lab, Room E15-3-341 
