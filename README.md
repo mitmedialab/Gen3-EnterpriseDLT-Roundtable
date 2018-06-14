@@ -30,4 +30,4 @@ This roundtable discussion will exmine potential design aspects for enterprise a
 
 --------------------------
 
-*To request an invitation reach out to: [law.MIT.edu/Contact](http://law.mit.edu/Contact)*
+**To request an invitation reach out to: [law.MIT.edu/Contact](http://law.mit.edu/Contact)**
