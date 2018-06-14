@@ -1,4 +1,4 @@
-## This Roundtable Discussion Will Explore Design and Deployment of Enterprise and Industry Sector Blockchains for Process Efficiency, New Market Layers, Products and Services.
+## Exploring Design and Deployment of Enterprise and Industry Sector Blockchains for Process Efficiency, New Market Layers, Products and Services.
 
 * MIT Media Lab, Room E15-3-341 
 * 9:00 AM - 11:30 AM August 1st, 2018 
