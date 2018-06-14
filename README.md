@@ -1,7 +1,8 @@
-## The [Gen3DLT Roundtable](https://mitmedialab.github.io/Gen3DLT-Roundtable) Explores Design and Deployment of Enterprise and Industry Sector Blockchains for Process Efficiency, New Market Layers, Products and Services.
+## This Roundtable Discussion Will Explore Design and Deployment of Enterprise and Industry Sector Blockchains for Process Efficiency, New Market Layers, Products and Services.
 
 * MIT Media Lab, Room E15-3-341 
 * 9:00 AM - 11:30 AM August 1st, 2018 
+* [https://mitmedialab.github.io/Gen3DLT-Roundtable](https://mitmedialab.github.io/Gen3DLT-Roundtable)
 
 **Enterprise blockchains will represent the third generation of Blockchains with the primary purpose of enhancing business process.  Enterprise and sector chains will be developed where provenance tracking, contract management, capturing arbitrage opportunities, and coordinating diverse settlements present value.**
 
